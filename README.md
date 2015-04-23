@@ -1,4 +1,4 @@
-JSNES
+SweetNES - A fork of JSNES
 =====
 
 A JavaScript NES emulator.
